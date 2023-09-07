@@ -1,0 +1,12 @@
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\bin\Debug\net6.0\ProductStore.Core.deps.json
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\bin\Debug\net6.0\ProductStore.Core.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\bin\Debug\net6.0\ProductStore.Core.pdb
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.csproj.AssemblyReference.cache
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.AssemblyInfoInputs.cache
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.AssemblyInfo.cs
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\refint\ProductStore.Core.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ProductStore.Core.pdb
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Core\obj\Debug\net6.0\ref\ProductStore.Core.dll

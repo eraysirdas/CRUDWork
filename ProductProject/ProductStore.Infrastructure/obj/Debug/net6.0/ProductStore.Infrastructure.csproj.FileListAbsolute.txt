@@ -1,0 +1,15 @@
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.AssemblyInfo.cs
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\bin\Debug\net6.0\ProductStore.Infrastructure.deps.json
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\bin\Debug\net6.0\ProductStore.Infrastructure.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\bin\Debug\net6.0\ProductStore.Infrastructure.pdb
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\bin\Debug\net6.0\ProductStore.Core.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\bin\Debug\net6.0\ProductStore.Core.pdb
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.csproj.CopyComplete
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\refint\ProductStore.Infrastructure.dll
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ProductStore.Infrastructure.pdb
+C:\Users\Eray\Desktop\Yeni klasör (2)\ProductStore.Infrastructure\obj\Debug\net6.0\ref\ProductStore.Infrastructure.dll
